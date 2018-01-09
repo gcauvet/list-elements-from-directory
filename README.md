@@ -6,7 +6,7 @@ Display files and directories in a table
 
 ### How to?
 
-- Place the index.php file in the root folder of your files
+- Place the index.php file in the folder of your choice.
 
 ### Result :
 
