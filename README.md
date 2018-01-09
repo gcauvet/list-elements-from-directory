@@ -12,6 +12,10 @@ Display files and directories in a table
 
 ![file table](https://blog.gcauvet-dev.com/img/1c/file-table.png "file table")
 
+### Blog post
+
+https://blog.gcauvet-dev.com/?d=2018/01/09/18/31/36-display-files-and-directories-in-a-table
+
 ---
 
 2018 - Gcauvet https://gcauvet-dev.com/
