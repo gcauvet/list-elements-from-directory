@@ -8,7 +8,7 @@ Display files and directories in a table
 
 - Place the index.php file in the folder of your choice.
 
-### Result :
+### Example
 
 ![file table](https://blog.gcauvet-dev.com/img/1c/file-table.png "file table")
 
