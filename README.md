@@ -1,7 +1,6 @@
 # List elements from directory
 
 Display files and directories in a table
-2018 - Gcauvet https://gcauvet-dev.com/
 
 ---
 
@@ -12,3 +11,7 @@ Display files and directories in a table
 ### Result :
 
 ![file table](https://blog.gcauvet-dev.com/img/1c/file-table.png "file table")
+
+---
+
+2018 - Gcauvet https://gcauvet-dev.com/
