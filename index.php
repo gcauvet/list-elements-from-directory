@@ -78,7 +78,7 @@
 				print " <tr>
 							<td class='alignLeft'><a href=".str_replace("\\",'/',"https://".$_SERVER['HTTP_HOST'].substr(getcwd(),strlen($_SERVER['DOCUMENT_ROOT'])))."/".rawurlencode($file).">".preg_replace('/\\.[^.\\s]{3,4}$/', '', $file)."</a></td>
 							<td>".number_format(filesize($file)/ 1048576, 2)." Mb</td>
-							<td>".date ("d/m/Y H:i:s.", filemtime($file))."</td>
+							<td>".date("d/m/Y H:i:s.", filemtime($file))."</td>
 						</tr>";
 				}
 
