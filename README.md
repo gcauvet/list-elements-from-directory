@@ -1,13 +1,14 @@
 # List elements from directory
 
-Display files and directories in a table - 2018 - Gcauvet https://gcauvet-dev.com/
+Display files and directories in a table
+2018 - Gcauvet https://gcauvet-dev.com/
 
 ---
 
-#### Goes from this :
+### How to?
 
-![raw file list](https://blog.gcauvet-dev.com/img/1a/rawfilelist.png "raw file list")
+- Place the index.php file in the root folder of your files
 
-#### To that! 
+### Result :
 
-![formated file list](https://blog.gcauvet-dev.com/img/a7/formatedfilelist.png "formated file list")
+![file table](https://blog.gcauvet-dev.com/img/1c/file-table.png "file table")
