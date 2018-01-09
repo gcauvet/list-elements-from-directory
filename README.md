@@ -1,7 +1,6 @@
 # List elements from directory
 
-Display files and directories in a table
- -2015 - Gcauvet https://gcauvet-dev.com/
+Display files and directories in a tabl - 2015 - Gcauvet https://gcauvet-dev.com/
 
 ---
 
